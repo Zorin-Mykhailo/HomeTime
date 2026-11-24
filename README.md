@@ -1,7 +1,7 @@
 # ФІЛЬМИ ТА СЕРІАЛИ
 
 # [Фільми](./HomeTime/Movies.md)  
-# [Серіали](./HomeTime/Series.md)
+# [Серіали](./HomeTime/TvSeries.md)
 
 
 | IMDB | ⭐ | Назва | Посилання | Фільм - Серіал | Примітки |  
