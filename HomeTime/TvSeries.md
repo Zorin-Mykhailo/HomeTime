@@ -2,8 +2,8 @@
 
 # СЕРІАЛИ
 
-| IMDB | ⭐ | Назва | Посилання | Фільм - Серіал | Примітки |  
-| ---: | --- | --- | --- | --- | --- |  
+| IMDB | ⭐⭐⭐⭐⭐ | Назва | Посилання | Фільм - Серіал | Примітки |  
+| ---: | ---: | --- | --- | --- | --- |  
 |  8.1 | | На схід від едему </br>`East of Eden ` | [ex-fs](https://ex-fs.net/serials/129725-k-vostoku-ot-edema.html) | Серіал |  | 
 |  7.6 | | Темная материя </br>`Dark Matter` | [ex-fs](https://ex-fs.net/serials/119586-temnaya-materiya-2024.html) | Серіал |  |  
 |  7.6 | | Дес </br>`Des` | [ex-fs](https://ex-fs.net/serials/101968-des.html) | Серіал |  | 
