@@ -9,7 +9,6 @@
 |  7.6 | | Дес </br>`Des` | [ex-fs](https://ex-fs.net/serials/101968-des.html) | Серіал |  | 
 |  7.4 | | Книжний </br>`Bookish` | [ex-fs](https://ex-fs.net/serials/124983-knizhnyy.html) | Серіал |  |  
 |  7.4 | | Ноктюрн / Пітьма </br>`Nocturne` | [ex-fs](https://ex-fs.net/serials/129937-noktjurn.html) | Серіал |  | 
-|  7.2 | | Одни на каникулах </br>`Hotel Sinestra` | [ex-fs](https://ex-fs.net/film/113757-odni-na-kanikulah.html) | Фільм | для детей |  
 |  7.0 | | Вечеринка </br>`The Afterparty` | [ex-fs](https://ex-fs.net/serials/108050-vecherinka.html) | Серіал |  |  
 |  6.6 | | Сліпий шерлок </br>`Blind Sherlock` | [ex-fs](https://ex-fs.net/serials/127232-slepoy-sherlok.html) | Серіал |  |  
 |  6.4 | | Последнее дело холмса </br>`The Final Problem` | [ex-fs](https://ex-fs.net/serials/129596-poslednee-delo-holmsa.html) | Серіал |  |  
